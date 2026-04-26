@@ -1,0 +1,1 @@
+cgroups control what a process can use in terms of resources.
