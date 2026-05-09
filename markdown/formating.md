@@ -18,3 +18,5 @@ Use backticks to write html code and not execute it in a md file.
 we can use img tag as in html to add pictures.  
 `<img src="assets/warning.png">`  
 <img src="assets/warning.png">
+
+Some quote ticks to **bold** is `**yourtext**` and for *italics* is `*italic*`.
